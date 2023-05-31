@@ -1,0 +1,4 @@
+apiVersion: kustomization.config.k8s.io/v1betal
+kind: Kustomization
+resource:
+  - manifests
